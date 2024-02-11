@@ -1,0 +1,1 @@
+"Diving into Ubuntu commands with VMware for OS Lab 3! From creating files with 'touch' to editing in 'nano' and exploring content with 'cat'. Unveiling the power of 'head', 'tail', 'grep', and 'ls -l'. Plus, mastering file permissions with 'chmod'. Stay tuned for our GitHub reveal, including a crucial typo! #UbuntuCommands #OSLabAdventures"
